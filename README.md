@@ -1,0 +1,1 @@
+This is my first time using Git, so it took me a while to figure out how to upload files. It took even more time to figure out how to upload files larger than 25mb since the browser did not allow it. 
